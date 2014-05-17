@@ -3,6 +3,12 @@
 	"type": "library",
     "description": "A library for encoding and decoding internationalized domain names.",
 	"license": "LGPL-2.1+",
+    "authors": [
+        {
+            "name": "Leo Feyer",
+            "homepage": "https://github.com/leofeyer"
+        }
+    ],
 	"autoload": {
 		"classmap": [
 			"idna_convert.class.php",
